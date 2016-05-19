@@ -304,13 +304,14 @@
                     <head>Opening Address by Secretary of State Hillary Rodham Clinton</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -318,16 +319,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="620933159001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>Thank you very much, Ambassador, and it’s a great pleasure and privilege for
                         me to welcome all of you to the Department of State. I know we have in this
                         audience scholars and historians, diplomats, and those who have great
@@ -451,12 +456,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -464,16 +469,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="620935370001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <hi rend="strong">SECRETARY KISSINGER:</hi> Thank you very much. I must
                         point out that I hold one record that will be hard to exceed, that during
@@ -1029,14 +1038,14 @@
                     <head>Keynote Address by Ambassador Richard C. Holbrooke</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -1044,16 +1053,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="620970034001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <hi rend="strong">MODERATOR:</hi> I would like now to turn to Ambassador
                         Richard C. Holbrooke. The Vietnam War was the focus of Ambassador
@@ -1796,14 +1809,14 @@
                         Vietnam</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -1811,16 +1824,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635457473001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list type="participants">
                             <item>Chair: Ronald Spector, George Washington University</item>
@@ -2817,14 +2834,14 @@
                         Asia</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -2832,16 +2849,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="726241127001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list type="participants">
                             <item>Chair: Thomas Schwartz, Vanderbilt University</item>
@@ -3907,14 +3928,14 @@
                     <head>Media Roundtable Discussion</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -3922,16 +3943,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635436536001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+
                     <p>
                         <list type="participants">
                             <item>Convened by: Assistant Secretary P.J. Crowley, Bureau of Public
@@ -5085,31 +5110,35 @@
                     <head>Address by Ambassador John D. Negroponte</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635457501001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635457501001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <hi rend="strong">AMBASSADOR. BRYNN:</hi> Again, I’m Edward Brynn,<hi rend="strong"/>the acting historian, I welcome you again. I’ll apologize
                         a little bit for the weather, but that’s the responsibility of the CIA.
@@ -5799,14 +5828,14 @@
                     <head>With Friends Like These: The United States and its Allies</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -5814,16 +5843,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="739508859001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list type="participants">
                             <item>Chair: Erin Mahan, Chief Historian, Office of the Secretary of
@@ -7071,13 +7104,14 @@
                     <head>Fighting While Negotiating: Force and Diplomacy in the Vietnam War</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -7085,16 +7119,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635436537001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list>
                             <item>Chair: Edward Keefer, Historian, Office of the Secretary of
@@ -8394,13 +8432,14 @@
                         Programs in Vietnam</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -8408,16 +8447,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635436543001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list>
                             <item>Chair: Richard Hunt, Historian, Office of the Secretary of
@@ -9749,13 +9792,14 @@
                     <head>Ours to Reason Why: Intervention in Vietnam, Reaction in America</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
+                    
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none"/>
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
-                        By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                        found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
+                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
                     <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
@@ -9763,16 +9807,20 @@
                         <param name="playerID" value="642900215001"/>
                         <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
+                        <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
                         <param name="@videoPlayer" value="635450480001"/>
-                    </object>
-                    <!-- 
-                        This script tag will cause the Brightcove Players defined above it to be created as soon
-                        as the line is read by the browser. If you wish to have the player instantiated only after
-                        the rest of the HTML is processed and the page load is complete, remove the line.
+                        <param name="secureConnections" value="true"/>
+                        <param name="secureHTMLConnections" value="true"/>
+                        <param name="htmlFallback" value="true"/>
+                    </object><!-- 
+                    This script tag will cause the Brightcove Players defined above it to be created as soon
+                    as the line is read by the browser. If you wish to have the player instantiated only after
+                    the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
                     <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
+                    
                     <p>
                         <list>
                             <item>Chair: Donald Ritchie, Historian, Senate Historical Office</item>
