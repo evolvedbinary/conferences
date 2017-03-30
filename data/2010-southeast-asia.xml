@@ -19,7 +19,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2011-02-28" who="JCW">Incorporated John Carland's changes to Holbrooke transcript based on his close review of the audio</change>
+            <change when="2011-02-28" who="JCW">Incorporated John Carland's changes to Holbrooke
+                transcript based on his close review of the audio</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -75,17 +76,20 @@
                         </row>
                         <row>
                             <cell>9:45–10:00</cell>
-                            <cell>Opening Address by Secretary of State Hillary Rodham Clinton <ref target="#secretary-clinton">(Video and transcript)</ref>
+                            <cell>Opening Address by Secretary of State Hillary Rodham Clinton <ref
+                                    target="#secretary-clinton">(Video and transcript)</ref>
                             </cell>
                         </row>
                         <row>
                             <cell>10:05–11:00</cell>
-                            <cell>Address by Dr. Henry A. Kissinger <ref target="#secretary-kissinger">(Video and transcript)</ref>
+                            <cell>Address by Dr. Henry A. Kissinger <ref
+                                    target="#secretary-kissinger">(Video and transcript)</ref>
                             </cell>
                         </row>
                         <row>
                             <cell>11:05–12:00</cell>
-                            <cell>Keynote Address by Ambassador Richard C. Holbrooke <ref target="#ambassador-holbrooke">(Video and transcript)</ref>
+                            <cell>Keynote Address by Ambassador Richard C. Holbrooke <ref
+                                    target="#ambassador-holbrooke">(Video and transcript)</ref>
                             </cell>
                         </row>
                         <row>
@@ -145,7 +149,8 @@
                             <cell>6:00–7:30</cell>
                             <cell>
                                 <p>Media Roundtable Discussion: Convened by Assistant Secretary P.J.
-                                    Crowley, Bureau of Public Affairs <ref target="#media-roundtable">(Video and transcript)</ref>
+                                    Crowley, Bureau of Public Affairs <ref
+                                        target="#media-roundtable">(Video and transcript)</ref>
                                 </p>
                                 <p>Moderator: Marvin Kalb, Murrow Professor Emeritus, Harvard
                                     University</p>
@@ -181,13 +186,15 @@
                         </row>
                         <row>
                             <cell>9:00–9:55</cell>
-                            <cell>Address by Ambassador John D. Negroponte <ref target="#ambassador-negroponte">(Video and transcript)</ref>
+                            <cell>Address by Ambassador John D. Negroponte <ref
+                                    target="#ambassador-negroponte">(Video and transcript)</ref>
                             </cell>
                         </row>
                         <row>
                             <cell>10:00-11:30</cell>
                             <cell>
-                                <p>With Friends Like These: The United States and its Allies <ref target="#with-friends-like-these">(Video and
+                                <p>With Friends Like These: The United States and its Allies <ref
+                                        target="#with-friends-like-these">(Video and
                                         transcript)</ref>
                                 </p>
                                 <p>Chair: Erin Mahan, Chief Historian, Office of the Secretary of
@@ -246,7 +253,8 @@
                             <cell>3:00-4:30</cell>
                             <cell>
                                 <p>The Battle for Hearts and Minds: Counterinsurgency and
-                                    Reconstruction Programs in Vietnam <ref target="#battle-for-hearts-and-minds">(Video and
+                                    Reconstruction Programs in Vietnam <ref
+                                        target="#battle-for-hearts-and-minds">(Video and
                                         transcript)</ref>
                                 </p>
                                 <p>Chair: Richard Hunt, Historian, Office of the Secretary of
@@ -304,20 +312,24 @@
                     <head>Opening Address by Secretary of State Hillary Rodham Clinton</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -325,14 +337,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>Thank you very much, Ambassador, and it’s a great pleasure and privilege for
                         me to welcome all of you to the Department of State. I know we have in this
                         audience scholars and historians, diplomats, and those who have great
@@ -461,13 +475,17 @@
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -475,14 +493,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <hi rend="strong">SECRETARY KISSINGER:</hi> Thank you very much. I must
                         point out that I hold one record that will be hard to exceed, that during
@@ -779,7 +799,8 @@
                         describe a situation that existed and that everybody has an obligation to
                         prevent from recurring. But the role of the media, on the whole, was, of
                         course, destructive.</p>
-                    <p>But there are always exceptions. There was – I remember in <hi rend="italic">The Washington Post</hi>, there was a writer called Chalmers Roberts. I
+                    <p>But there are always exceptions. There was – I remember in <hi rend="italic"
+                            >The Washington Post</hi>, there was a writer called Chalmers Roberts. I
                         don’t know whether any of you remember him. And he had really studied the
                         Vietnam issue. And he would call me up sometimes – not to get a great story,
                         but to call my attention to something that had been said that might be
@@ -1038,20 +1059,24 @@
                     <head>Keynote Address by Ambassador Richard C. Holbrooke</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -1059,14 +1084,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <hi rend="strong">MODERATOR:</hi> I would like now to turn to Ambassador
                         Richard C. Holbrooke. The Vietnam War was the focus of Ambassador
@@ -1723,23 +1750,23 @@
                         bombing, as you said, to – the southern neck of North Vietnam. so he’ll bomb
                         only up to the 20th parallel, instead of going all the way up to
                         Hanoi-Haiphong, as had been the case.</p>
-                    <p>And then he withdraws and says he – in the same speech, and
-                        says he wants to give the rest of his presidency to the cause of peace. I
-                        can’t speak for Harry, but I can tell you that had I realized he was not
-                        going to run again, and that meant he had only nine or ten months left in his
-                        presidency, I would have said this is nuts; if you’re going to make the
-                        gesture, stop it all.</p>
-                    <p>So what happened? We get the Vietnamese answer, four days later, and the
-                        same day Martin Luther King Jr. was killed, and the same day the streets
-                        of the city on 16th Street are aflame, and you can see it as you cross the
-                        Key Bridge. And it is hard to imagine the drama in the city. And the
-                        same day, the North Vietnamese send us a message that they’re ready to have
-                        talks with us, but only on ending the rest of the bombing. The
-                        headlines, which are not the big headline of the day because of the riots
-                        going on in Washington and all over the country and the unbelievable drama
-                        of Martin Luther King’s assassination.</p>
-                    <p>The responses – we went from one month arguing about where we’re going to have
-                        the talks. They want them in Warsaw, we want them in Geneva. President
+                    <p>And then he withdraws and says he – in the same speech, and says he wants to
+                        give the rest of his presidency to the cause of peace. I can’t speak for
+                        Harry, but I can tell you that had I realized he was not going to run again,
+                        and that meant he had only nine or ten months left in his presidency, I
+                        would have said this is nuts; if you’re going to make the gesture, stop it
+                        all.</p>
+                    <p>So what happened? We get the Vietnamese answer, four days later, and the same
+                        day Martin Luther King Jr. was killed, and the same day the streets of the
+                        city on 16th Street are aflame, and you can see it as you cross the Key
+                        Bridge. And it is hard to imagine the drama in the city. And the same day,
+                        the North Vietnamese send us a message that they’re ready to have talks with
+                        us, but only on ending the rest of the bombing. The headlines, which are not
+                        the big headline of the day because of the riots going on in Washington and
+                        all over the country and the unbelievable drama of Martin Luther King’s
+                        assassination.</p>
+                    <p>The responses – we went from one month arguing about where we’re going to
+                        have the talks. They want them in Warsaw, we want them in Geneva. President
                         Johnson says I’ll go anywhere except Paris. (Laughter.) He didn’t trust the
                         French, so we ended up in Paris, which was perfectly fine with us. I’d
                         rather live in Paris for a year than Geneva anyway. Somebody even suggested
@@ -1809,20 +1836,24 @@
                         Vietnam</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -1830,14 +1861,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list type="participants">
                             <item>Chair: Ronald Spector, George Washington University</item>
@@ -2364,7 +2397,8 @@
                         and received his PhD there in 1996. From 1997 [sic. 1977] to 1981, he was a
                         research scholar at the Military Academy of Sciences and Ministry of
                         Defense. And since 1981, he has been a research scholar at the Military
-                        History Institute of Vietnam. In 1998, he became the deputy editor of <hi rend="italic">Vietnamese Military History Journal</hi> and he served as
+                        History Institute of Vietnam. In 1998, he became the deputy editor of <hi
+                            rend="italic">Vietnamese Military History Journal</hi> and he served as
                         its editor from 2000 to 2007. Since 2007, he has also been deputy director
                         of the Military History Institute of Vietnam. He is the author of two books,
                         a study of the Tet Offensive, <hi rend="italic">Mau Than: 1968’s General
@@ -2484,7 +2518,8 @@
                         well as the Vietnam War. She received her BA from the University of
                         Pennsylvania and her MA and PhD from Yale University, and she has held
                         fellowships at Stanford, Harvard, and Yale University. Currently, she is
-                        completing work on her book manuscript, tentatively entitled <hi rend="italic">The Dark Side of Victory: The War for Peace in Vietnam,
+                        completing work on her book manuscript, tentatively entitled <hi
+                            rend="italic">The Dark Side of Victory: The War for Peace in Vietnam,
                             1968 to 1973.</hi>
                     </p>
                     <p>Professor Nguyen.</p>
@@ -2521,7 +2556,8 @@
                         were presented.</p>
                     <p>Colonel Ha does this great thing. He sets up his paper, as you know in this
                         introduction, which places the second Indochina War, the Vietnamese
-                        resistance against the United States, within the longer <hi rend="italic">duree</hi> of history. And here, he starts out with that the history of
+                        resistance against the United States, within the longer <hi rend="italic"
+                            >duree</hi> of history. And here, he starts out with that the history of
                         Vietnam is really a history of being able to resist foreign aggression, and
                         of the 17 wars that Vietnam fought, that they had only lost three. And of
                         course, the first is the 1,000-year occupation of the Chinese that began in
@@ -2834,20 +2870,24 @@
                         Asia</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -2855,14 +2895,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list type="participants">
                             <item>Chair: Thomas Schwartz, Vanderbilt University</item>
@@ -2883,7 +2925,8 @@
                     <p>We’re about to have our senior scholars program. We’ve got a distinguished
                         group for you. I’m going to introduce the chair and give it over to him. The
                         chair is Thomas Schwartz. Tom Schwartz is a professor of history at
-                        Vanderbilt University and he is the author of, among other things, <hi rend="italic">Lyndon Johnson in Europe: In the Shadow of Vietnam</hi>.
+                        Vanderbilt University and he is the author of, among other things, <hi
+                            rend="italic">Lyndon Johnson in Europe: In the Shadow of Vietnam</hi>.
                         He has received fellowships from a variety of distinguished institutions,
                         among them the German Historical Institute, the Norwegian Nobel Institute,
                         the Woodrow Wilson Center, and the Social Science Research Center.</p>
@@ -2985,7 +3028,8 @@
                         battle at home has never been concluded. And we heard a little bit of that
                         this morning, a quite different take on Vietnam from Ambassador Holbrooke
                         than that of Secretary Kissinger.</p>
-                    <p>There are some specific lessons which we should learn, and that is <hi rend="italic">don’t fabricate history</hi>. Starting in the late 1990s,
+                    <p>There are some specific lessons which we should learn, and that is <hi
+                            rend="italic">don’t fabricate history</hi>. Starting in the late 1990s,
                         a new school of revisionists appeared who claimed that the United States
                         had, in effect, won the Vietnam War. Maybe we have. We heard that the
                         Vietnam we now face is the Vietnam we always wanted. So in that sense, I
@@ -3027,7 +3071,8 @@
                         politically and economically infeasible. And indeed it was Secretary
                         Kissinger who in his famous <hi rend="italic">Foreign Affairs</hi> article
                         of ’68 says the guerilla wins if he doesn’t lose.</p>
-                    <p>I guess the final point is that it’s difficult, as Richard Cohen of <hi rend="italic">The Washington Post</hi> said at the time of the
+                    <p>I guess the final point is that it’s difficult, as Richard Cohen of <hi
+                            rend="italic">The Washington Post</hi> said at the time of the
                         discussions about Iraq some years ago, it’s difficult to recover from the
                         time the first fundamental mistake is made. This is another key fact that we
                         should have learned from Vietnam. And I refer to a comment, which may have
@@ -3052,7 +3097,8 @@
                         long run – and this is particularly true of Kennedy and Johnson – knew that
                         they might even make the situation worse or even irretrievable in the long
                         run, but still did it.</p>
-                    <p>Think of Bob Woodward’s book , just emerged, which I’ve only read <hi rend="italic">The Washington Post</hi> summaries of it, but explaining
+                    <p>Think of Bob Woodward’s book , just emerged, which I’ve only read <hi
+                            rend="italic">The Washington Post</hi> summaries of it, but explaining
                         why a beleaguered President Obama has been sort of pushed into a corner in
                         making decisions about Afghanistan which he clearly doesn’t believe in, and
                         implementing a strategy which he doesn’t, obviously, believe is going to
@@ -3072,7 +3118,8 @@
                         sometimes. Maybe it doesn’t work with Republicans, but George Bush upped the
                         ante in Iraq after that. Yeah, so it doesn’t always happen that way.</p>
                     <p>But anyway, our next speaker will be George Herring. Anyone who’s ever
-                        talked, of course, on the Vietnam War knows George’s work, <hi rend="italic">America’s Longest War</hi>. It’s a phenomenal book. My students have
+                        talked, of course, on the Vietnam War knows George’s work, <hi rend="italic"
+                            >America’s Longest War</hi>. It’s a phenomenal book. My students have
                         always loved it. It captures the war. It is so well written, presented. And
                         George, of course, now is professor emeritus at the University of Kentucky,
                         served as chair of the department, was a Fulbright scholar, all sorts of
@@ -3086,7 +3133,8 @@
                         introduction. And thanks to the historical office and John for putting this
                         conference together.</p>
                     <p>I, too, was a member of the panel, Historical Advisory Committee, in the
-                        ’90s. It was a great pleasure to meet the people working on the <hi rend="italic">Foreign Relations</hi> volumes, which I’ve relied on since
+                        ’90s. It was a great pleasure to meet the people working on the <hi
+                            rend="italic">Foreign Relations</hi> volumes, which I’ve relied on since
                         the day I started serious research in the field, a date I will not mention.
                         (Laughter.)</p>
                     <p>In listening to David talk, I was reminded of Jim Thompson’s hyperbolic
@@ -3187,7 +3235,8 @@
                         writing of the war, but the sources and perspectives have broadened
                         considerably. Those who write about the American side now, as I’ve already
                         suggested, have a vast array of documents that were not available when I
-                        wrote in the ’70s or even when I did my fourth edition of <hi rend="italic">American’s Longest War</hi> in 2001. Especially true for the Nixon
+                        wrote in the ’70s or even when I did my fourth edition of <hi rend="italic"
+                            >American’s Longest War</hi> in 2001. Especially true for the Nixon
                         years, where the White House materials alone, not to mention other
                         materials, are simply overwhelming in their magnitude.</p>
                     <p>Even more important and enlightening, I think, is the broader perspective
@@ -3292,7 +3341,8 @@
                         to the Historian’s Office for hosting this and to the State Department for
                         having such a wonderful thing as the <hi rend="italic">Foreign Relations in
                             the United States</hi> series. And of course, Tom is right; I am itching
-                        to talk, but before I go there, I want to talk a bit about actually the <hi rend="italic">Foreign Relations</hi> series.</p>
+                        to talk, but before I go there, I want to talk a bit about actually the <hi
+                            rend="italic">Foreign Relations</hi> series.</p>
                     <p>And let me go there this way: Thirty-eight years ago today in a room not far
                         from where we’re sitting here, Richard Nixon, Henry Kissinger, and Alexander
                         Haig were sitting down discussing what Mr. – what General Haig would say
@@ -3331,7 +3381,8 @@
                         reversal of the situation, but it’s a definite problem of historical
                         interpretation.</p>
                     <p>Now, the <hi rend="italic">Foreign Relations</hi> series is a wonderful,
-                        wonderful resource for research, all right? And the <hi rend="italic">Foreign Relations</hi> series contains the record of the talk that the
+                        wonderful resource for research, all right? And the <hi rend="italic"
+                            >Foreign Relations</hi> series contains the record of the talk that the
                         senior people were having today on the 29 th of September. But it doesn’t
                         have either the joint staff plan or the NSC staff evaluation of the plan or
                         the Kissinger cable from Paris that contains this line about the morality of
@@ -3345,7 +3396,8 @@
                         because there’s a question of selection of material.</p>
                     <p>In the <hi rend="italic">Foreign Relations</hi> series – and I’m probably one
                         of the few people who has read every <hi rend="italic">Foreign Relations of
-                            the United States</hi> volume on Vietnam from 1940 to 1972 – in the <hi rend="italic">Foreign Relations</hi> series, there is a huge array of
+                            the United States</hi> volume on Vietnam from 1940 to 1972 – in the <hi
+                            rend="italic">Foreign Relations</hi> series, there is a huge array of
                         material, and it’s an incredible resource for historians. But it’s also
                         limited both by what it encompassed at any given moment in time, and also
                         what materials were being produced. As new technology has come in and we’ve
@@ -3681,7 +3733,8 @@
                         hard one.</p>
                     <p>
                         <hi rend="strong">PROF. ELLIOTT:</hi> Could I add – just 30 seconds. On the
-                        Korean analogy, in the book that I referred to, Yuen Foong Khong’s <hi rend="italic">Analogies at War</hi>, he argues that, contrary to the
+                        Korean analogy, in the book that I referred to, Yuen Foong Khong’s <hi
+                            rend="italic">Analogies at War</hi>, he argues that, contrary to the
                         impression of most scholars of an earlier declaration, it wasn’t the Munich
                         analogy, aggression unchecked is aggression unleashed, that drove
                         policymakers, particularly in the Kennedy period but also the Johnson
@@ -3808,7 +3861,8 @@
                         now late in the Clinton Administration – because what is the point of this.
                         And in fact, the judgment went against the U.S. Government. And since then
                         they have lightened up considerably on their treatment of Thailand and
-                        declassifying documents, to the extent that this new <hi rend="italic">Foreign Relations</hi> set that’s come out actually contains the
+                        declassifying documents, to the extent that this new <hi rend="italic"
+                            >Foreign Relations</hi> set that’s come out actually contains the
                         Washington Special Action Group conversations about whether we can pay these
                         Thai troops or not going to the Laotian War, and a whole series of other
                         things like that.</p>
@@ -3928,20 +3982,24 @@
                     <head>Media Roundtable Discussion</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 29, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -3949,12 +4007,14 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -4040,7 +4100,9 @@
                         bureau and he opened CBS News’ Saigon bureau in 1965 and served three tours
                         in Vietnam. It was his 1965 report on U.S. Marines burning the villages of
                         Cam Ne caused a firestorm of controversy when it was broadcast by Walter
-                        Cronkite. And he’s now, of course, still a correspondent for <hi rend="italic">60 Minutes</hi> and he’s the author of the best-seller <hi rend="italic">Flashbacks: On Returning to Vietnam.</hi>
+                        Cronkite. And he’s now, of course, still a correspondent for <hi
+                            rend="italic">60 Minutes</hi> and he’s the author of the best-seller <hi
+                            rend="italic">Flashbacks: On Returning to Vietnam.</hi>
                     </p>
                     <p>Edith Lederer is The Associated Press’s chief correspondent at the United
                         Nations and she has been with the AP for 44 years. God bless you for staying
@@ -4287,7 +4349,8 @@
                     <p>
                         <hi rend="strong">MR. SAFER:</hi> No, no, no, this was a lieutenant colonel.
                         It was probably a battalion-sized – a reduced battalion-sized operation. We
-                        went on the – in these amphibious vehicles, these Amtraks (<hi rend="italic">Editor’s Note: Amtraks were amphibious tracked vehicles – armored and
+                        went on the – in these amphibious vehicles, these Amtraks (<hi rend="italic"
+                            >Editor’s Note: Amtraks were amphibious tracked vehicles – armored and
                             used to transport troops</hi>), and I asked a (inaudible) major what the
                         operation was about. And he said, well, it’s a search and destroy mission.
                         Search and destroy was the common phrase for destroy. (Laughter.) And we
@@ -4376,7 +4439,8 @@
                         went to someone at the White House who was also well-informed and I told him
                         my – what I thought I discovered. And he said, “I’ve never lied to you,
                         Bill, and I won’t start now. Let’s change the subject.”</p>
-                    <p>So I knew I had the story. I wrote it, it appeared on page one of <hi rend="italic">The New York Times</hi>. And it wasn’t denied by the
+                    <p>So I knew I had the story. I wrote it, it appeared on page one of <hi
+                            rend="italic">The New York Times</hi>. And it wasn’t denied by the
                         Pentagon; they said, “This is speculative.” And when reporters went to their
                         best sources – bear in mind, very few people knew the details – when they
                         went to their best sources and said, “Is this going on,” and the sources
@@ -4626,7 +4690,8 @@
                         wanted an uncommitted witness, some – I just don’t know.</p>
                     <p>
                         <hi rend="strong">MR. KALB:</hi> Well, at least Colby did it with you for
-                        three days. Think about McChrystal inviting a reporter from the <hi rend="italic">Rolling Stone</hi> in for a month. (Laughter.) Tell us
+                        three days. Think about McChrystal inviting a reporter from the <hi
+                            rend="italic">Rolling Stone</hi> in for a month. (Laughter.) Tell us
                         about McNamara.</p>
                     <p>
                         <hi rend="strong">MR. SAFER:</hi>When Secretary McNamara finally published
@@ -5110,20 +5175,24 @@
                     <head>Address by Ambassador John D. Negroponte</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -5131,16 +5200,19 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
-                        <hi rend="strong">AMBASSADOR. BRYNN:</hi> Again, I’m Edward Brynn,<hi rend="strong"/>the acting historian, I welcome you again. I’ll apologize
+                        <hi rend="strong">AMBASSADOR. BRYNN:</hi> Again, I’m Edward Brynn,<hi
+                            rend="strong"/>the acting historian, I welcome you again. I’ll apologize
                         a little bit for the weather, but that’s the responsibility of the CIA.
                         (Laughter.) Might I remind you if you would be so good as to turn off cell
                         phones and that type of equipment? Again, you are now completely familiar
@@ -5828,20 +5900,24 @@
                     <head>With Friends Like These: The United States and its Allies</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -5849,14 +5925,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list type="participants">
                             <item>Chair: Erin Mahan, Chief Historian, Office of the Secretary of
@@ -5890,7 +5968,8 @@
                         role of the United States and the history of its policy in the Vietnam
                         War.</p>
                     <p>The chairman of this panel is Dr. Erin Mahan. She’s Chief Historian at the
-                        Office of the Secretary of Defense. She is also author of <hi rend="italic">Kennedy, de Gaulle, and Western Europe</hi>. Earlier, she was at this
+                        Office of the Secretary of Defense. She is also author of <hi rend="italic"
+                            >Kennedy, de Gaulle, and Western Europe</hi>. Earlier, she was at this
                         office. She was chief of the Division of Arms Control, Asia, and Africa,
                         where she edited several volumes in the <hi rend="italic">Foreign
                             Relations</hi> series. Thus, Erin is an old friend and one we welcome
@@ -5917,7 +5996,9 @@
                         DartmouthCollege. He is currently completing a book on the early years of
                         the United States alliance with South Vietnam. This book is based on
                         extensive research in archival collections in the United States, but also in
-                        France and Vietnam. His work has previously appeared in the <hi rend="italic">Journal of Southeast Asian Studies</hi> and the <hi rend="italic">Journal of Vietnamese Studies</hi>. He received his Ph.D.
+                        France and Vietnam. His work has previously appeared in the <hi
+                            rend="italic">Journal of Southeast Asian Studies</hi> and the <hi
+                            rend="italic">Journal of Vietnamese Studies</hi>. He received his Ph.D.
                         in History in 2004 from Harvard University, and he will speak to us this
                         morning about “A House Divided: Nhu and the Can Lao Party and the Internal
                         Politics of the Diem Regime, 1954 to 1960.”</p>
@@ -5947,11 +6028,13 @@
                         not made much of an effort to actually investigate the party and to kind of
                         peel back the layers of secrecy in which it was shrouded. So this paper is a
                         preliminary attempt to do that. In trying to do this, I’ve made use some
-                        American materials, including some documents in the <hi rend="italic">FRUS</hi> volumes. Especially the Vietnam Volume for 1958-1960 has a
+                        American materials, including some documents in the <hi rend="italic"
+                            >FRUS</hi> volumes. Especially the Vietnam Volume for 1958-1960 has a
                         lot of interesting documents, revealing documents, about the Can Lao and its
                         organization. In addition, there are some very valuable recently
                         declassified materials. Thomas Ahern, a CIA historian, published a study of
-                        the agency’s relationship with the Ngo brothers. It’s called <hi rend="italic">CIA and the House of Ngo</hi>. That is available for free
+                        the agency’s relationship with the Ngo brothers. It’s called <hi
+                            rend="italic">CIA and the House of Ngo</hi>. That is available for free
                         download on the CIA’s FOIA website. It was declassified about a year ago. So
                         I’ve drawn on that.</p>
                     <p>But as Erin indicated, I’ve also drawn on other non-American sources. There
@@ -7104,20 +7187,24 @@
                     <head>Fighting While Negotiating: Force and Diplomacy in the Vietnam War</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -7125,14 +7212,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list>
                             <item>Chair: Edward Keefer, Historian, Office of the Secretary of
@@ -7180,7 +7269,9 @@
                         <hi rend="strong">DR. KEEFER:</hi> I’d like to add my thanks to John and the
                         staff at HO for this conference. But I’d like to give a special thanks to
                         John, not just for the two volumes exquisitely documented and selected on
-                        Vietnam himself, but also for the last two years really being the <hi rend="italic">de facto</hi> general editor of the <hi rend="italic">Foreign Relations</hi> for the Vietnam volumes. These volumes that came
+                        Vietnam himself, but also for the last two years really being the <hi
+                            rend="italic">de facto</hi> general editor of the <hi rend="italic"
+                            >Foreign Relations</hi> for the Vietnam volumes. These volumes that came
                         out would not have happened without John.</p>
                     <p>And then, as John pointed out, I worked in the Office of the Historian for 34
                         years and I basically started on Vietnam, and the Vietnam of 1955, when I –
@@ -8040,7 +8131,8 @@
                         affairs officers. Not a word. And it was very surrealistic over that
                         Christmas holiday as the bombs fell.</p>
                     <p>Why was that? Well, mostly it was because – and it’s in one of those kind of
-                        charming quotes that you find in this latest volume of <hi rend="italic">FRUS</hi> -- Nixon couldn’t figure out what to say. How do you explain
+                        charming quotes that you find in this latest volume of <hi rend="italic"
+                            >FRUS</hi> -- Nixon couldn’t figure out what to say. How do you explain
                         that we’re bombing Hanoi to make Saigon agree to a peace agreement? It’s
                         that issue that we discussed yesterday with respect to that cable that John
                         Prados has mentioned that Kissinger had sent back, although you’ll all be
@@ -8301,7 +8393,8 @@
                         to accept a peace agreement Stephen [Morris] said that would doom his
                         country. I think there’s something to be said to that – about that, that
                         these are allies that didn’t trust each other.</p>
-                    <p>There’s a document buried away in the 1968 volume of the <hi rend="italic">Foreign Relations of the U.S.</hi> series, which includes a verbatim
+                    <p>There’s a document buried away in the 1968 volume of the <hi rend="italic"
+                            >Foreign Relations of the U.S.</hi> series, which includes a verbatim
                         conversation between Thieu and Ky, two people, South Vietnam’s president and
                         vice president. Why do we have a record in a U.S. Government publication
                         about a private conversation between the president and the vice president of
@@ -8432,20 +8525,24 @@
                         Programs in Vietnam</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -8453,14 +8550,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list>
                             <item>Chair: Richard Hunt, Historian, Office of the Secretary of
@@ -8544,9 +8643,11 @@
                         and U.S. intelligence services during the French-Indochina War?</p>
                     <p>You can take this copy, please. [handout]</p>
                     <p>The French intelligence services were numerous in Indochina. Near the G2 and
-                        the military services, like the SRO [Service of Operational Information, <hi rend="italic">Service de Renseignement Opérationnel</hi> ], specialized
+                        the military services, like the SRO [Service of Operational Information, <hi
+                            rend="italic">Service de Renseignement Opérationnel</hi> ], specialized
                         in the HUMINT, human intelligence, there was a special service. It was
-                        SDECE, for External Documentation and Counter-espionage Service [<hi rend="italic">Service de documentation extérieure et de
+                        SDECE, for External Documentation and Counter-espionage Service [<hi
+                            rend="italic">Service de documentation extérieure et de
                             contre-espionnage]</hi> . The SDECE was divided in four main
                         sub-services: intelligence service against China (inaudible) and Burma,
                         HUMINT agents, the COMINT, with the SDR, and the Action Service.</p>
@@ -8701,7 +8802,8 @@
                         intelligence services, intelligence service officers on both sides. In May
                         1950, at the very time the French were setting up the SDECE station in
                         Indochina, it seems that the CIA actually came out with a plan to create a
-                            counter-<hi rend="italic">maquis</hi> . Now, this term of <hi rend="italic">maquis</hi> demands to go back a little bit into time to
+                            counter-<hi rend="italic">maquis</hi> . Now, this term of <hi
+                            rend="italic">maquis</hi> demands to go back a little bit into time to
                         find the very roots in terms of French and American collaboration in
                         counterinsurgency operations. Indeed, French and U.S. intelligence
                         operatives at the time were deeply impacted by their World War Two
@@ -8765,7 +8867,8 @@
                         Even if this project are now to be fully internalized by the French
                         military, it does appear that the American in some way, at the origin of
                         what would later be called the GCMA, the <hi rend="italic">Groupes Commandos
-                            Mixtes Aéroportés</hi> , a very impressive counter-<hi rend="italic">maquis</hi> system in the Tonkin and Laos highlands, which happened to
+                            Mixtes Aéroportés</hi> , a very impressive counter-<hi rend="italic"
+                            >maquis</hi> system in the Tonkin and Laos highlands, which happened to
                         be partially recuperated by the Americans at the end of the war. And this is
                         the subject of my second-to-last part. I’ll be brief, thank you.</p>
                     <p>And this, the second part, what I call the French counterinsurgency legacy
@@ -8811,9 +8914,11 @@
                     <p>So he arrived in Saigon in July ’54. He got in touch with the French SDECE
                         officer, Colonel Jean Carbonel, the very same who had worked with
                         Saint-Phalle in 1950 with the first proposal at the time. And the – so
-                        Carbonel actually proposed to Conein establishing a <hi rend="italic">maquis</hi> , those very <hi rend="italic">maquis</hi> of ’51, in the
+                        Carbonel actually proposed to Conein establishing a <hi rend="italic"
+                            >maquis</hi> , those very <hi rend="italic">maquis</hi> of ’51, in the
                         U.S. proposal. They were now envolving. Those <hi rend="italic">maquis</hi>
-                        had now flourished and they were now involving thousands of <hi rend="italic">Montagnards</hi> people in the high region and who fought
+                        had now flourished and they were now involving thousands of <hi
+                            rend="italic">Montagnards</hi> people in the high region and who fought
                         on the rear guard in the Viet Minh. And the French were leaving. They now
                         counted on Washington to carry on the military and financial support of
                         these irregular units.</p>
@@ -8821,14 +8926,16 @@
                         the <hi rend="italic">Montagnards</hi> were abandoned. Well, nevertheless,
                         the idea proved long-lasting in the intelligence service circles.</p>
                     <p>And this would be my final point. The watchful student of Indochina wars
-                        would have certainly noticed the resemblances between the GCMA <hi rend="italic">maquis</hi> of 19 – of the mid-50s and the CIA-funded
+                        would have certainly noticed the resemblances between the GCMA <hi
+                            rend="italic">maquis</hi> of 19 – of the mid-50s and the CIA-funded
                         Laotian and then Vietnamese guerrilla operations in the early ’60s. Well,
                         this is not pure chance. And as a form of conclusion, I would quote a former
                         CIA operative in Laos in 1959, Stuart Methven, whom I interviewed last year,
                         and where he states that General Ouane, who was the Laotian army chief of
                         staff at the time, gave him the very idea to establish exactly – in exactly
                         the same fashion that 10 years earlier the CIA made the first proposal to
-                        the French <hi rend="italic">maquis</hi> in the <hi rend="italic">Montagnards</hi> .</p>
+                        the French <hi rend="italic">maquis</hi> in the <hi rend="italic"
+                            >Montagnards</hi> .</p>
                     <p>So to conclude, we find U.S. service – intelligence services both at the
                         input and at the output of one of the most important counter-guerrilla
                         experiences in Indochina. And I would say that it is interesting to note
@@ -9105,7 +9212,8 @@
                         it’s always the same. I get peppered with questions about men who stare at
                         goats. (Laughter.) Of course, getting any reaction from undergraduates, no
                         matter how misguided, constitutes a victory for history professors
-                        everywhere. (Laughter.) Besides, M.E. Roberts reports in <hi rend="italic">Villages of the Moon</hi> , that while deployed to Afghanistan with the
+                        everywhere. (Laughter.) Besides, M.E. Roberts reports in <hi rend="italic"
+                            >Villages of the Moon</hi> , that while deployed to Afghanistan with the
                         345th Psy-Op, he received similar questions about his unit’s work from other
                         soldiers who wanted to know about Jedi mind tricks.</p>
                     <p>Psy-op is really less mysterious than it is often imagined. It has little to
@@ -9341,7 +9449,8 @@
                         researcher at the Center for Contemporary History of Asia. He received his
                         doctorate in contemporary history from the University of Paris in 2007. He’s
                         the author of several books and articles on the diplomatic and strategic
-                        history of the Indochina wars, as well as the forthcoming <hi rend="italic">De Gaulle</hi>
+                        history of the Indochina wars, as well as the forthcoming <hi rend="italic"
+                            >De Gaulle</hi>
                         <hi rend="italic">and Vietnam</hi> , which will come out in 2011.</p>
                     <p>Professor Journaud.</p>
                     <p>
@@ -9533,7 +9642,8 @@
                         his goal.</p>
                     <p>Evidently, in the period and place examined in this fascinating panel, the
                         men of character remain in the communist camp. In the early ’40s, at least,
-                        they were engaged both in a total war and a huge effort to rebuild an <hi rend="italic">état-nation</hi> after a troubled century of colonial
+                        they were engaged both in a total war and a huge effort to rebuild an <hi
+                            rend="italic">état-nation</hi> after a troubled century of colonial
                         domination.</p>
                     <p>Sorry to have been so long. Thank you. (Applause.)</p>
                     <p>
@@ -9792,20 +9902,24 @@
                     <head>Ours to Reason Why: Intervention in Vietnam, Reaction in America</head>
                     <p>East Auditorium, George C. Marshall Conference Center<lb/> Washington, D.C.
                         <lb/> September 30, 2010</p>
-                    
+
                     <!-- Start of Brightcove Player -->
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
                     <!--
                     By use of this code snippet, I agree to the Brightcove Publisher T and C 
                     found at https://accounts.brightcove.com/en/terms-and-conditions/. 
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001" class="BrightcoveExperience">
+                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
+                        type="text/javascript"
+                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
+                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
+                        class="BrightcoveExperience">
                         <param name="bgcolor" value="#FFFFFF"/>
                         <param name="width" value="486"/>
                         <param name="height" value="412"/>
                         <param name="playerID" value="642900215001"/>
-                        <param name="playerKey" value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
+                        <param name="playerKey"
+                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
                         <param name="isVid" value="true"/>
                         <param name="isUI" value="true"/>
                         <param name="dynamicStreaming" value="true"/>
@@ -9813,14 +9927,16 @@
                         <param name="secureConnections" value="true"/>
                         <param name="secureHTMLConnections" value="true"/>
                         <param name="htmlFallback" value="true"/>
-                    </object><!-- 
+                    </object>
+                    <!-- 
                     This script tag will cause the Brightcove Players defined above it to be created as soon
                     as the line is read by the browser. If you wish to have the player instantiated only after
                     the rest of the HTML is processed and the page load is complete, remove the line.
                     -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">brightcove.createExperiences();</script>
+                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
+                        >brightcove.createExperiences();</script>
                     <!-- End of Brightcove Player -->
-                    
+
                     <p>
                         <list>
                             <item>Chair: Donald Ritchie, Historian, Senate Historical Office</item>
@@ -9847,8 +9963,10 @@
                         historical documents and provided reference and research for senators,
                         scholars, and the media. That’s in the Senate world.</p>
                     <p>In the larger world, Don is a legendary raconteur of quality that makes his
-                        public addresses always a delight. His books include, <hi rend="italic">Press Gallery: Congress and the Washington Correspondents</hi>, which
-                        won the Leopold Prize from the Organization of American Historians, <hi rend="italic">Reporting from Washington: The History of the Washington
+                        public addresses always a delight. His books include, <hi rend="italic"
+                            >Press Gallery: Congress and the Washington Correspondents</hi>, which
+                        won the Leopold Prize from the Organization of American Historians, <hi
+                            rend="italic">Reporting from Washington: The History of the Washington
                             Press Corps</hi>, and <hi rend="italic">The U.S. Congress: A Very Short
                             Introduction</hi>. Few political historians are better qualified than
                         Don to put in context the papers to be presented here, papers that range
@@ -10109,7 +10227,9 @@
                         conference. So I’m going to go next to Stephen Griffin who is a professor of
                         constitutional law at Tulane University Law School in New Orleans. He holds
                         law degrees from the University of Kansas and New York University. He’s also
-                        taught at the University of Chicago. His books include <hi rend="italic">American Constitutionalism: From Theory to Politics</hi> and <hi rend="italic">A Reader of Constitutional Theory</hi>. I wish he would be
+                        taught at the University of Chicago. His books include <hi rend="italic"
+                            >American Constitutionalism: From Theory to Politics</hi> and <hi
+                            rend="italic">A Reader of Constitutional Theory</hi>. I wish he would be
                         able to explain to us today why so many candidates in this election are
                         running as constitutional defenders, and they’re all proposing
                         constitutional amendments as part of their campaigns.</p>
@@ -10440,7 +10560,8 @@
                         which is now coming out in a number of volumes dealing with Vietnam is a
                         major addition to the corpus of knowledge that will be used by all you
                         scholars to inform us in the future. And I’d like to specifically celebrate
-                        the work of HO in – the Historical Office in the production of the <hi rend="italic">FRUS</hi> series regarding Vietnam. This is a watershed
+                        the work of HO in – the Historical Office in the production of the <hi
+                            rend="italic">FRUS</hi> series regarding Vietnam. This is a watershed
                         era, and I think having the conference to coincide with this watershed is
                         very important. I am going to thank all of you scholars, students,
                         panelists, presenters who have brought to this conference an extraordinarily
@@ -10449,7 +10570,8 @@
                         Son Nhut Air Force Base in 1969 as a very young air force – very junior air
                         force officer, probably young as well. And I took advantage of the fact that
                         I spoke rather executable French to spend many evenings or some evenings at
-                        a local bar to reinforce my French, of course, and drink some <hi rend="italic">Trente-Trois</hi>
+                        a local bar to reinforce my French, of course, and drink some <hi
+                            rend="italic">Trente-Trois</hi>
                         <hi rend="italic">bier</hi> and I met a guy who was the owner of this little
                         place and he served up some food as well. Of course, then that was in 1969,
                         never thought much more about him until exactly 10 years later in June of
@@ -10682,7 +10804,8 @@
                         sides of the divide emphasized their patriotism, disagreeing only about its
                         meaning. The different conceptions are probably best summarized in two
                         versions of one slogan that clashed long before the 1960s but which were
-                        revived during the Vietnam War debate. James Burnham of the <hi rend="italic">National Review</hi> described the interventionist variant
+                        revived during the Vietnam War debate. James Burnham of the <hi
+                            rend="italic">National Review</hi> described the interventionist variant
                         as, quote, “the older rule of the loyal citizen. My country, may she ever be
                         right, but my country, right or wrong. Generally speaking, a nation is
                         injured or destroyed by losing a war, even if it’s the wrong war,”
@@ -11099,7 +11222,8 @@
             </div>
             <div type="section" xml:id="photos">
                 <head>Vietnam Photo Gallery</head>
-                <p>The Conference has assembled a rich <ref target="/gallery/southeast-asia-conference">gallery of photos</ref> relating
+                <p>The Conference has assembled a rich <ref
+                        target="/gallery/southeast-asia-conference">gallery of photos</ref> relating
                     to the people and events covered by the conference.</p>
             </div>
             <div type="section" xml:id="background-materials">
@@ -11116,80 +11240,116 @@
                         the <hi rend="italic">FRUS</hi> series presents the official documentary
                         historical record of major U.S. foreign policy decisions.</p>
                     <p>To access volumes pertaining to U.S. policy towards Southeast Asia prior to
-                        1960, please visit the <ref target="http://digicoll.library.wisc.edu/FRUS/">University of Wisconsin’s Digital Collections</ref>, which provides
+                        1960, please visit the <ref target="http://digicoll.library.wisc.edu/FRUS/"
+                            >University of Wisconsin’s Digital Collections</ref>, which provides
                         online full-text access to the FRUS series between 1861 and 1960.</p>
-                    <p>To access post-1960 FRUS volumes, please visit the <ref target="http://history.state.gov/historicaldocuments">Office of the
+                    <p>To access post-1960 FRUS volumes, please visit the <ref
+                            target="http://history.state.gov/historicaldocuments">Office of the
                             Historian's website</ref>. There are numerous volumes on Vietnam and
                         Southeast Asia covering the Kennedy, Johnson, and Nixon-Ford
                         Administrations: <list>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1961-63v01">Foreign Relations of the United States, 1961–1963, Volume I:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1961-63v01"
+                                    >Foreign Relations of the United States, 1961–1963, Volume I:
                                     Vietnam, 1961</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1961-63v02">Foreign Relations of the United States, 1961–1963, Volume II:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1961-63v02"
+                                    >Foreign Relations of the United States, 1961–1963, Volume II:
                                     Vietnam, 1962</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1961-63v03">Foreign Relations of the United States, 1961–1963, Volume III:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1961-63v03"
+                                    >Foreign Relations of the United States, 1961–1963, Volume III:
                                     Vietnam, January-August 1963</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1961-63v04">Foreign Relations of the United States, 1961–1963, Volume IV:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1961-63v04"
+                                    >Foreign Relations of the United States, 1961–1963, Volume IV:
                                     Vietnam, August-December 1963</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1961-63v24">Foreign Relations of the United States, 1961-1963, Volume
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1961-63v24"
+                                    >Foreign Relations of the United States, 1961-1963, Volume
                                     XXIII, Southeast Asia</ref>
                             </item>
                             <item>Foreign Relations of the United States, 1961–1963, Volume XXIV:
                                 Laos Crisis</item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v01">Foreign Relations of the United States, 1964–1968, Volume I:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v01"
+                                    >Foreign Relations of the United States, 1964–1968, Volume I:
                                     Vietnam, 1964</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v02">Foreign Relations of the United States, 1964–1968, Volume II:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v02"
+                                    >Foreign Relations of the United States, 1964–1968, Volume II:
                                     Vietnam, January-June 1965</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v03">Foreign Relations of the United States, 1964–1968, Volume III:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v03"
+                                    >Foreign Relations of the United States, 1964–1968, Volume III:
                                     Vietnam, June-December 1965</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v04">Foreign Relations of the United States, 1964–1968, Volume IV,
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v04"
+                                    >Foreign Relations of the United States, 1964–1968, Volume IV,
                                     Vietnam, 1966</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v05">Foreign Relations of the United States, 1964–1968, Volume V:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v05"
+                                    >Foreign Relations of the United States, 1964–1968, Volume V:
                                     Vietnam, 1967</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v06">Foreign Relations of the United States, 1964–1968, Volume VI,
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v06"
+                                    >Foreign Relations of the United States, 1964–1968, Volume VI,
                                     Vietnam, January–August 1968</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v07">Foreign Relations of the United States, 1964–1968, Volume VII:
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v07"
+                                    >Foreign Relations of the United States, 1964–1968, Volume VII:
                                     Vietnam, September 1968–January 1969</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v27">Foreign Relations of the United States, 1964–1968, Volume
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v27"
+                                    >Foreign Relations of the United States, 1964–1968, Volume
                                     XXVII, Mainland Southeast Asia; Regional Affairs</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1964-68v28">Foreign Relations of the United States, 1964–1968, Volume
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1964-68v28"
+                                    >Foreign Relations of the United States, 1964–1968, Volume
                                     XXVIII, Laos</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1969-76v06">Foreign Relations of the United States, 1969–1976, Volume VI,
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1969-76v06"
+                                    >Foreign Relations of the United States, 1969–1976, Volume VI,
                                     Vietnam, January 1969–July 1970</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1969-76v08">Foreign Relations of the United States, 1969–1976, Volume VIII,
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1969-76v08"
+                                    >Foreign Relations of the United States, 1969–1976, Volume VIII,
                                     Vietnam, January–October 1972</ref>
                             </item>
                             <item>
-                                <ref target="http://history.state.gov/historicaldocuments/frus1969-76v20">Foreign Relations of the United States, 1969–1976, Volume XX,
+                                <ref
+                                    target="http://history.state.gov/historicaldocuments/frus1969-76v20"
+                                    >Foreign Relations of the United States, 1969–1976, Volume XX,
                                     Southeast Asia, 1969–1972</ref>
                             </item>
                         </list>
@@ -11210,7 +11370,10 @@
                             <ref target="http://www.state.gov/r/pa/ei/bgn/2732.htm">Cambodia</ref>
                         and <ref target="http://www.state.gov/r/pa/ei/bgn/2770.htm">Laos</ref>,
                         which are updated regularly.</p>
-                    <p>General background studies are available for <ref target="http://memory.loc.gov/frd/cs/vntoc.html">Vietnam</ref>, <ref target="http://memory.loc.gov/frd/cs/khtoc.html">Cambodia</ref> and <ref target="http://memory.loc.gov/frd/cs/latoc.html">Laos</ref> through the
+                    <p>General background studies are available for <ref
+                            target="http://memory.loc.gov/frd/cs/vntoc.html">Vietnam</ref>, <ref
+                            target="http://memory.loc.gov/frd/cs/khtoc.html">Cambodia</ref> and <ref
+                            target="http://memory.loc.gov/frd/cs/latoc.html">Laos</ref> through the
                         Library of Congress’s Country Studies website.</p>
                 </div>
                 <div type="section" xml:id="maps">
@@ -11283,7 +11446,9 @@
                                 <ref target="http://osdhistory.defense.gov/">OSD</ref>
                             </item>
                             <item>
-                                <ref target="https://www.cia.gov/library/center-for-the-study-of-intelligence/index.html">CIA/CSI</ref>
+                                <ref
+                                    target="https://www.cia.gov/library/center-for-the-study-of-intelligence/index.html"
+                                    >CIA/CSI</ref>
                             </item>
                         </list>
                     </p>
@@ -11291,7 +11456,9 @@
                 <div type="section" xml:id="further-reading">
                     <head>Suggestions for Further Reading</head>
                     <p>One of the most comprehensive bibliographies on the war in Vietnam and
-                        Southeast Asia is <ref target="http://www.clemson.edu/caah/history/facultypages/edmoise/bibliography.html">Prof. Edwin E. Moise’s Vietnam War Bibliography</ref>. This list covers
+                        Southeast Asia is <ref
+                            target="http://www.clemson.edu/caah/history/facultypages/edmoise/bibliography.html"
+                            >Prof. Edwin E. Moise’s Vietnam War Bibliography</ref>. This list covers
                         a wide range of topics—whether military, political, diplomatic, home front,
                         fiction, and many others—that relates to the war and U.S. policy in
                         Southeast Asia. The bibliography also contains links to other sources on the
@@ -11308,7 +11475,8 @@
                     <div>
                         <head>“Frontline Diplomacy” Oral History Project</head>
                         <p>The Association for Diplomatic Studies and Training’s Foreign Affairs
-                                <ref target="http://memory.loc.gov/ammem/collections/diplomacy/">Oral History Collection</ref> is free and accessible to the public
+                                <ref target="http://memory.loc.gov/ammem/collections/diplomacy/"
+                                >Oral History Collection</ref> is free and accessible to the public
                             through the Library of Congress’s Digital Collections. This online
                             repository examines the lives of American diplomats and consists of
                             interviews with U.S. diplomatic personnel. It showcases the experiences,
@@ -11319,7 +11487,9 @@
                     <div>
                         <head>Newseum Online Exhibit on Reporting the Vietnam War</head>
                         <p>In November 2001, the Newseum showcased an exhibition on wartime
-                            reporting. Now online, <ref target="http://www.newseum.org/warstories/interviews/mov/wars/war.asp?warID=3">this exhibition</ref> educates the public as to the history of war
+                            reporting. Now online, <ref
+                                target="http://www.newseum.org/warstories/interviews/mov/wars/war.asp?warID=3"
+                                >this exhibition</ref> educates the public as to the history of war
                             reporting, what it is like to cover a war, and how this has changed
                             throughout the twentieth century. One of the sections highlights wartime
                             reporting during the Vietnam War, which was the first uncensored war for
