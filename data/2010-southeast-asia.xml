@@ -25,6 +25,7 @@
     </teiHeader>
     <text>
         <body>
+            <!--
             <div type="section" xml:id="welcome">
                 <head>Conference on The American Experience in Southeast Asia, 1946-1975</head>
                 <figure>
@@ -51,6 +52,7 @@
                 <p>There will be a number of scholarly panels, where leading scholars will present
                     thought-provoking papers.</p>
             </div>
+            -->
             <div type="section" xml:id="program">
                 <head>Program</head>
                 <figure>
