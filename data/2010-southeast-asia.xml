@@ -11026,9 +11026,1012 @@
             </div>
             <div type="section" xml:id="photos">
                 <head>Vietnam Photo Gallery</head>
-                <p>The Conference has assembled a rich <ref
-                        target="/gallery/southeast-asia-conference">gallery of photos</ref> relating
-                    to the people and events covered by the conference.</p>
+                <p>The Conference has assembled a rich gallery of photos relating to the people and
+                    events covered by the conference. (An archived copy of the original, more
+                    dynamic gallery is available via the <ref
+                        target="http://webarchive.loc.gov/all/20140515192454/http://history.state.gov/gallery/southeast-asia-conference"
+                        >Library of Congress Web Archives Collection</ref>.)</p>
+                <div>
+                    <head>Iconic</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6506180329-1_war_is_hell.jpg"/>
+                                <head>In this June 18, 1965 file photo, an unidentified U.S. Army
+                                    soldier wears a hand lettered "War Is Hell" slogan on his
+                                    helmet, in Vietnam. The war ended on April 30, 1975, with the
+                                    fall of Saigon, now known as Ho Chi Minh City, to communist
+                                    troops from the north.</head>
+                                <bibl>AP Photo/Horst Faas, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6706150213-1_troops.jpg"/>
+                                <head>In this June 15, 1967 file photo, American infantrymen crowd
+                                    into a mud-filled bomb crater and look up at tall jungle trees
+                                    seeking out Viet Cong snipers firing at them during a battle in
+                                    Phuoc Vinh, north-Northeast of Saigon in Vietnam's War Zone D.
+                                    The war ended on April 30, 1975, with the fall of Saigon, now
+                                    known as Ho Chi Minh City, to communist troops from the
+                                    north.</head>
+                                <bibl>AP Photo/Henri Huet, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7303170257-1_homecoming.jpg"/>
+                                <head>In this March 17, 1973 file photo, released prisoner of war
+                                    Lt. Col. Robert L. Stirm is greeted by his family at Travis Air
+                                    Force Base in Fairfield, Calif., as he returns home from the
+                                    Vietnam War. The war ended on April 30, 1975, with the fall of
+                                    Saigon, now known as Ho Chi Minh City, to communist troops from
+                                    the north.</head>
+                                <bibl>AP Photo/Sal Veder, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap680201079-1_execution.jpg"/>
+                                <head>South Vietnamese Gen. Nguyen Ngoc Loan, chief of the national
+                                    police, fires his pistol into the head of suspected Viet Cong
+                                    officer Nguyen Van Lem (also known as Bay Lop) on a Saigon
+                                    street Feb. 1, 1968, early in the Tet Offensive.</head>
+                                <bibl>AP Photo/Eddie Adams</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap720608063-1_kim_phuc_napalm.jpg"/>
+                                <head>South Vietnamese forces follow after terrified children,
+                                    including 9-year-old Kim Phuc, center, as they run down Route 1
+                                    near Trang Bang after an aerial napalm attack on suspected Viet
+                                    Cong hiding places on June 8, 1972. A South Vietnamese plane
+                                    accidentally dropped its flaming napalm on South Vietnamese
+                                    troops and civilians. The terrified girl had ripped off her
+                                    burning clothes while fleeing. The children from left to right
+                                    are: Phan Thanh Tam, younger brother of Kim Phuc, who lost an
+                                    eye, Phan Thanh Phouc, youngest brother of Kim Phuc, Kim Phuc,
+                                    and Kim's cousins Ho Van Bon, and Ho Thi Ting. Behind them are
+                                    soldiers of the Vietnam Army 25th Division.</head>
+                                <bibl>AP Photo/Nick Ut</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7504290565-1_helicopter_push.jpg"/>
+                                <head>In this April 29, 1975 file photo, U.S. Navy personnel aboard
+                                    the USS Blue Ridge push a helicopter into the sea off the coast
+                                    of Vietnam in order to make room for more evacuation flights
+                                    from Saigon. The war ended on April 30, 1975, with the fall of
+                                    Saigon, now known as Ho Chi Minh City, to communist troops from
+                                    the north.</head>
+                                <bibl>AP Photo/File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7504300281-1_gate_crashing.jpg"/>
+                                <head>In this April 30, 1975 file photo, a North Vietnamese tank
+                                    rolls through the gate of the Presidential Palace in Saigon,
+                                    signifying the fall of South Vietnam. The war ended on April 30,
+                                    1975, with the fall of Saigon, now known as Ho Chi Minh City, to
+                                    communist troops from the north.</head>
+                                <bibl>AP Photo/File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap66010102659-1_wounded_soldiers.jpg"/>
+                                <head>In this January 1966 file photo, First Cavalry Division medic
+                                    Thomas Cole, from Richmond, Va., looks up with one uncovered eye
+                                    as he treats a wounded Staff Sgt. Harrison Pell during a
+                                    firefight in the Central Highlands in Vietnam, between U.S.
+                                    troops and a combined North Vietnamese and Vietcong
+                                    force.</head>
+                                <bibl>AP Photo/Henri Huet, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap66010102668-1_muddy_canal.jpg"/>
+                                <head>In this Jan. 1, 1966 file photo, women and children crouch in
+                                    a muddy canal as they take cover from intense Viet Cong fire at
+                                    Bao Trai, about 20 miles west of Saigon, Vietnam. The war ended
+                                    on April 30, 1975, with the fall of Saigon, now known as Ho Chi
+                                    Minh City, to communist troops from the north.</head>
+                                <bibl>AP Photo/Horst Faas, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap080708020260-1_quang_duc_self-immolation_1963.jpg"/>
+                                <head>Quang Duc, a Buddhist monk, burns himself to death on a Saigon
+                                    street June 11, 1963 to protest alleged persecution of Buddhists
+                                    by the South Vietnamese government.</head>
+                                <bibl>AP Photo/Malcolm Browne</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Media</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap600813086-1_kalb_1960.jpg"/>
+                                <head>Mrs. Barbara Powers, center, wife of U-2 pilot Francis Gary
+                                    Powers, speaks with Irene Yudovich upon her arrival, August 13,
+                                    1960, at Moscow Airport from the United States. At left is
+                                    Marvin Kalb, Columbia broadcasting system newsman. Pilot Powers
+                                    is slated to go on trial on August 17 in Moscow on charges of
+                                    espionage.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap630101066-1_arnett_1963.jpg"/>
+                                <head>Peter Arnett posed in 1963 with gear that he carries out in
+                                    field while covering the Vietnamese army.</head>
+                                <bibl>AP-Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap651010151-1_safer_1965.jpg"/>
+                                <head>CBS correspondent Morley Safer Oct. 10, 1965</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap660616098-1_zorthian_1966.jpg"/>
+                                <head>William Porter, left, deputy ambassador to South Vietnam, and
+                                    Barry Zorthian, minister counselor of information in Saigon,
+                                    pose in the Cabinet Room of the White House, June 16,
+                                    1966.</head>
+                                <bibl>AP Photo/Charles Gorry</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap720501070-1_sheehan_1972.jpg"/>
+                                <head>From left, Reporter Neil Sheehan, Managing Editor A.M.
+                                    Rosenthal and Foreign News Editor James L. Greenfield are shown
+                                    in an office of the New York Times in New York, May 1, 1972,
+                                    after it was announced the team won the Pulitzer Prize for
+                                    public service for its publication of the Pentagon Papers.
+                                    Sheehan, who obtained and wrote most of the stories about the
+                                    papers for the Times, was not cited in the award.</head>
+                                <bibl>AP Photo/John Lent</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6309140116-1_five_oclock_follies_1963.jpg"/>
+                                <head>Journalists attend a briefing by military officers in Saigon
+                                    ca. 1963. The regular briefings became known derisively as the
+                                    "Five O'Clock Follies," by those who believed the official
+                                    information released there was inaccurate and misleading. At
+                                    center, foreground, is Seymour Topping of the New York Times.
+                                    Immediately behind him at right (no glasses) is Malcolm Browne
+                                    of the Associated Press.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6401010357-1_halberstam_1964.jpg"/>
+                                <head>Journalist David Halberstam, New York Times correspondent who
+                                    is awarded the 1964 Pulitzer Prize for his international
+                                    reporting of the Vietnam War, is shown at his desk in New York
+                                    in 1964.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7005040162-1_hersh_pulitzer_1970.jpg"/>
+                                <head>Seymour M. Hersh sits in the furnitureless office of Dispatch
+                                    News Service in Washington, May 4, 1970, after being awarded the
+                                    Pulitzer Prize for international reporting. Hersh disclosed the
+                                    alleged massacre of Vietnamese civilians at My Lai.</head>
+                                <bibl>AP Photo/Bob Daugherty</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap07081009610-1_browne_1965.jpg"/>
+                                <head>War correspondent Malcolm W. Browne with the commander of the
+                                    Australian 1st Batt, at their arrival at Tan Son Nhut airport
+                                    near the city of Siagon in South Vietnam, May 1965.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap08070709615-1_lederer_1969.jpg"/>
+                                <head>Edith Lederer, AP newswoman, is shown on the job, Oct. 1969 in
+                                    San Francisco.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Notable People</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap540522013-1_giap_1954.jpg"/>
+                                <head>General Vo Nguyen Giap who commands the Communist-led Vietminh
+                                    forces currently waging war against French Union Troops in
+                                    Indochina, May 22, 1954.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap570509017_dde_diem_dulles_1957.jpg"/>
+                                <head>U.S. President Dwight Eisenhower greets President Ngo Dinh
+                                    Diem of South Vietnam at the White House in Washington, D.C.,
+                                    May 9, 1957. At right is Secretary of State John Foster Dulles.
+                                    During the meeting, the two presidents put ceremony aside for a
+                                    candid talk on means of safeguarding Diem's communist-threatened
+                                    Southeast Asian country.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap601113045_diem_postcoup_1960.jpg"/>
+                                <head>South Vietnamese President Ngo Dinh Diem waves from a balcony
+                                    of the Presidential Palace to a crowd assembled in front of the
+                                    palace as he makes his first public appearance after the
+                                    abortive coup d'etat in Saigon, Vietnam, Nov. 13, 1960. He had
+                                    been confined at the presidential palace during the two-day coup
+                                    which occurred Nov. 11.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap670504047-1_abrams_westmoreland.jpg"/>
+                                <head>General Creighton W. Abrams at left shakes hands with Gen.
+                                    William Westmoreland on arrival at Saigon on May 4, 1967 to take
+                                    up what Abrams said would be a job as “Westmoreland’s assistant
+                                    across the board.”</head>
+                                <bibl>AP Photo/Peter Arnett</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap670712036_mcnamara_christian_1967.jpg"/>
+                                <head>Secretary of Defense Robert McNamara talks to reporters on
+                                    July 12, 1967 at the White House after reporting to President
+                                    Johnson on his trip to Vietnam. McNamara said he believes more
+                                    U.S. manpower will be needed in Vietnam. At right is White House
+                                    Press Secretary George Christian.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap680719065-1_johnson_thieu.jpg"/>
+                                <head>President Johnson, right, and South Vietnamese President
+                                    Nguyen Van Thieu sit down at Pacific Command Headquarters in
+                                    Honolulu to begin two days of meetings on the Vietnamese war and
+                                    Paris peace talks on July 19, 1968. Thieu led his nation in the
+                                    Vietnam War that tore apart his homeland and bitterly divided
+                                    the United States, then was forced to step down as North
+                                    Vietnamese troops closed in.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap690608031_nixon_thieu_1969.jpg"/>
+                                <head>President Nixon and President Nguyen Van Thieu of South
+                                    Vietnam say goodbye at the Midway Island Airport Sunday, June 8,
+                                    1969 following their conference on the Vietnam war.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap700430069-1_nixon_cambodia_1970.jpg"/>
+                                <head>U.S. President Richard Nixon poses in the White House after
+                                    his announcement to the nation April 30, 1970 that American
+                                    ground troops have attacked, at his order, a Communist complex
+                                    in Cambodia. Nixon points to area of Vietnam and Cambodia in
+                                    which the action is taking place.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap721126028-1_nixon_kissinger_1972.jpg"/>
+                                <head>President Nixon confers Nov. 25, 1972 with Henry A. Kissinger
+                                    in New York after the presidential adviser returned from a week
+                                    of secret negotiations in Paris with North Vietnam's Le Duc Tho.
+                                    The White House announced later that the president was
+                                    "Confident that we will achieve the right kind of settlement" in
+                                    Vietnam.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap750401087-1_richard_helms_1975.jpg"/>
+                                <head>Former Central Intelligence Agency director Richard Helms
+                                    talking to reporters in April 1975.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6309241104_mcnamara_taylor_lodge_1963.jpg"/>
+                                <head>U.S. Defense Secretary Robert McNamara, left, and Gen. Maxwell
+                                    D. Taylor, center, huddle up with U.S. Ambassador to South
+                                    Vietnam Henry Cabot Lodge on arrival at Saigon airport, Sept.
+                                    24, 1963. The chairman of the joint chiefs of staff and the
+                                    secretary of defense are a two-man fact-finding committee
+                                    dispatched by President Kennedy to investigate the situation in
+                                    that Asian country.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6310031163_mcnamara_briefing_1963.jpg"/>
+                                <head>Secretary of Defense Robert McNamara poses with a map he used,
+                                    Oct. 3, 1963 to brief the Senate Armed Services Committee on his
+                                    trip to Vietnam. The briefing was held behind closed doors in an
+                                    executive session of the committee.</head>
+                                <bibl>AP Photo/Charles Gorry</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6701010636_westmoreland_1967.jpg"/>
+                                <head>General William C. Westmoreland, commander of U.S. forces in
+                                    Vietnam, speaks at a news conference in 1967.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6707110190_mcnamara_katzenbach_wheeler_1967.jpg"/>
+                                <head>Returning from an inspection tour of U.S. forces in Vietnam,
+                                    U.S. officials arrive at Andrews Air Force Base near Washington
+                                    on July 11, 1967. From left are Secretary of Defense Robert S.
+                                    McNamara, Under Secretary of State Nicholas Katzenbach and Chief
+                                    of Staff Gen. Earle Wheeler. McNamara is to report his findings
+                                    in Vietnam to the President.</head>
+                                <bibl>AP Photo/Charles Gorry</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6708210163_katzenbach_1967.jpg"/>
+                                <head>Undersecretary of State Nicholas Katzenbach listens to a
+                                    senator’s question during testimony on August 21, 1967 before
+                                    the Senate Foreign Relations Committee. Katzenbach told the
+                                    committee that President Lyndon Johnson and the nation would be
+                                    “placed in an extremely difficult position” if Congress repeals
+                                    a three-year-old resolution supporting steps to prevent
+                                    aggression in South Vietnam.</head>
+                                <bibl>AP Photo/Henry Griffin</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6902110110-1_nixon_mccain_kissinger.jpg"/>
+                                <head>U.S. President Richard Nixon conferred at the White House with
+                                    Adm John McCain, commander in chief of the United States Pacific
+                                    Forces, Feb. 11, 1969 in Washington. Admiral McCain has been a
+                                    patient at Bethesda Naval Hospital after suffering a mild stroke
+                                    last month. At right is Henry Kissinger.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6903100193_laird_abrams_bunker_1969.jpg"/>
+                                <head>Before boarding a plane for his trip back to the United
+                                    States, visiting Secretary of Defense Melvin R. Laird (center)
+                                    chats with General Creighton W. Abrams, the U.S. commander in
+                                    Vietnam, March 10, 1969. To the left, is American Ambassador
+                                    Ellsworth Bunker. The secretary and his party wound up a
+                                    four-day fact-finding tour to Vietnam with a half-hour news
+                                    conference in which he said that the current communist offensive
+                                    was a calculated escalation of the war. He was pleased
+                                    nonetheless that rocket attacks on Saigon has halted and added
+                                    that these attacks were not significant.</head>
+                                <bibl>AP Photo/Cung</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6910141388_thieu_1969.jpg"/>
+                                <head>President Nguyen Van Thieu talks to newsmen outside a pagoda,
+                                    on an island near Hue on Oct. 14, 1969. During the conference
+                                    the President invited 100 American antiwar students to South
+                                    Vietnam to ‘dissipate misunderstanding’ about the war. The
+                                    President addressed his remarks to student groups organizing on
+                                    a ‘moratorium’ in the United States.</head>
+                                <bibl>AP Photo/Le Ngoc Cung</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7210110214-1_laird_vietnamization_72.jpg"/>
+                                <head>Defense Secretary Melvin R. Laird points to a chart showing
+                                    the administration’s Vietnamization record during a news
+                                    conference on Wednesday, Oct. 11, 1972 in Washington. During the
+                                    news conference Laird conceded that American bombs may struck
+                                    the French diplomatic mission in Hanoi, but said U.S. air state
+                                    will continue over North Vietnam.</head>
+                                <bibl>AP Photo/ Harvey Georges</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7310130146-1_ford_nixon_kissinger.jpg"/>
+                                <head>Vice Presidential nominee Gerald R. Ford, right, listens as
+                                    President Richard Nixon speaks in the Oval Office of the White
+                                    House in Washington on Saturday, Oct. 13, 1973. Ford went to the
+                                    White House to meet with the President after holding a news
+                                    conference on Capitol Hill. At left is Secretary of State Henry
+                                    Kissinger.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap070817018677_nixon_laird_.jpg"/>
+                                <head>Top presidential staff aide, Alexander Haig (right) with
+                                    President Nixon (center) and Melvin Laird in 1973.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap73010102641-1_general_abrams_1975.jpg"/>
+                                <head>Generals who commanded U.S. forces during America’s
+                                    involvement in Vietnam over the years on April 25, 1975. Gen.
+                                    Creignton Abrams, who was chief of the U.S. Military Assistance
+                                    Advisory Group in Vietnam chief of staff of the U.S.
+                                    Army.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/carver.jpg"/>
+                                <head>George C. Carver, Special Assistant for Vietnam Affairs to
+                                    Director of Central Intelligence, 1966-1973.</head>
+                                <bibl>CIA History Office</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ho_chi_minh_1946.jpg"/>
+                                <head>Ho Chi Minh, Hanoi, March 1946</head>
+                                <bibl>Photograph Collection of Wayne D. Larabee</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/laird_and_bunker.jpg"/>
+                                <head>Secretary of Defense, Melvin R. Laird, and Ambassador
+                                    Ellsworth Bunker, arriving at the American Embassy in Saigon
+                                    during Secretary Laird’s Vietnam tour. 12 February 1970.</head>
+                                <bibl>US Army Photograph, CC 65999</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/vn--pr_and_jdn.jpg"/>
+                                <head>Peter Rodman and John Negroponte en route to Paris, January
+                                    23, 1973.</head>
+                                <bibl>White House Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/vn-hak_and_wl.jpg"/>
+                                <head>Henry Kissinger and Winston Lord en route to Paris, January
+                                    23, 1973 (NB: Used in Kissinger memoirs).</head>
+                                <bibl>White House Photo</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>On the Ground</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap540323069_dienbienphu_1954.jpg"/>
+                                <head>French paratroops land near a blockhouse to help defend Dien
+                                    Bien Phu, Indo-China, March 23, 1954.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap680131038-1_tet_offensive.jpg"/>
+                                <head>With dead U.S. soldiers in the foreground, U.S. military
+                                    police take cover behind a wall at the entrance to the U.S.
+                                    consulate in Saigon on the first day of the Tet Offensive, Jan.
+                                    31, 1968. Viet Cong guerrillas had invaded the grounds of the
+                                    U.S. Embassy compound in the earliest hours of the coordinated
+                                    communist offensive.</head>
+                                <bibl>AP Photo/Hong Seong-Chan</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap680927161_soldier.jpg"/>
+                                <head>Pfc. Bob G. Whitworth (Albany, Oregon), US soldier fighting
+                                    the war in Vietnam, Sept. 27, 1968, had not slept for three days
+                                    and had fought all the time when this picture was taken: his
+                                    unit- a company of the 11th Light Infantry Brigade in the
+                                    Americal Division – was pursuing shattered elements of the North
+                                    Vietnamese 2nd Division in the paddies, brush and villages 30
+                                    miles south of Danang. The operation accounted for more than 400
+                                    of the enemy dead allied casualties were light. But combat
+                                    fatigue is etched deeply into the face of the 21 year old
+                                    soldier.</head>
+                                <bibl>AP Photo/Dana Stone</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap690518058_hamburgerhill_1969.jpg"/>
+                                <head>A wounded U.S. paratrooper of the 101st Airborne Division is
+                                    helped through a blinding rainstorm by two medics after being
+                                    evacuated from Dong Ap Bia during the 10-day battle for
+                                    Hamburger Hill, May 1969. U.S. and South Vietnamese forces
+                                    eventually dislodged communist forces from Dong Ap Bia, but the
+                                    action touched off further political controversy in the United
+                                    States.</head>
+                                <bibl>AP Photo/Hugh Van Es</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap690730041-1_nixon_visits_troops_1969.jpg"/>
+                                <head>President Nixon is surrounded by combat infantrymen of the
+                                    U.S. First Infantry Division at their headquarters at Di An, 12
+                                    miles north of Saigon, July 30, 1969.</head>
+                                <bibl>AP Photo/stf</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6308221180_ustroops_jungle_1963.jpg"/>
+                                <head>American military men in South Viet Nam—there are some 14,000
+                                    there as adviser to the nations armed forces are fighting,
+                                    August 22, 1963. This type of war against communist infiltration
+                                    from the north. The Kennedy administration feels victory will
+                                    come in the Guerrilla war but is worried that bad government in
+                                    Saigon – Highlighted by Buddhist - Government conflict – may
+                                    reverse the tide.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6802050143-1_tet_rubble.jpg"/>
+                                <head>A large section of rubble is all that remains in this one
+                                    block square area of Saigon on Feb. 5, 1968, after fierce Tet
+                                    Offensive fighting. Rockets and grenades, combined with fires,
+                                    laid waste to the area. An Quang Pagoda, location of Viet Cong
+                                    headquarters during the fighting, is at the top of the
+                                    photo.</head>
+                                <bibl>AP Photo/Johner</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7006010438-1_cambodian_incursion_1970.jpg"/>
+                                <head>U.S. soldiers of the 11th Armored Cavalry Regiment, among the
+                                    first to enter Cambodia in April and May, celebrate as they
+                                    return to South Vietnam in late June 1970, riding a tank past a
+                                    bullet-riddled sign at the border north of Katum. The Cambodian
+                                    incursion ordered by President Richard Nixon was intended to
+                                    seize North Vietnamese and Viet Cong sanctuaries in
+                                    Cambodia.</head>
+                                <bibl>AP Photo/Henri Huet</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7208120167-1_last_us_combat_batallion_72.jpg"/>
+                                <head>The era of American ground combat involvement in Vietnam comes
+                                    to an end in a formal ceremony in Da Nang, Aug. 12, 1972.</head>
+                                <bibl>AP Photo/Koichiro Morita</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7502130144-1_fall_of_saigon.jpg"/>
+                                <head>A group of opposition National Assemblymen use torches to set
+                                    fire to pictures of South Vietnam’s President Nguyen van Thieu
+                                    during an anti-government protest on steps of the National
+                                    Assembly building in Saigon, Tuesday, Feb. 13, 1975. The
+                                    protest, held in conjunction with the Tet holiday, on lunar New
+                                    Year, renewed opposition demands for Thieu’s resignation and
+                                    charges of corrupting in government.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7504290128-1_saigon_evacuation.jpg"/>
+                                <head>Mobs of Vietnamese people scale the wall of the U.S. Embassy
+                                    in Saigon, Vietnam, trying to get to the helicopter pickup zone,
+                                    just before the end of the Vietnam War on April 29, 1975.</head>
+                                <bibl>AP Photo/Neal Ulevich</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7504290508-1_saigon_evacuation.jpg"/>
+                                <head>The helicopter zone at the U.S. Embassy in Saigon, Vietnam, on
+                                    April 29, 1975, showing last minute evacuation of authorized
+                                    personnel and civilians.</head>
+                                <bibl>AP photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap66010102686-1_helicopters_1966.jpg"/>
+                                <head>In this 1966 file photo, U.S. Army helicopters providing
+                                    support for U.S. ground troops fly into a staging area fifty
+                                    miles northeast of Saigon, Vietnam. The war ended on April 30,
+                                    1975, with the fall of Saigon, now known as Ho Chi Minh City, to
+                                    communist troops from the north.</head>
+                                <bibl>AP Photo/Henri Huet, File</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap080128020585_westmoreland_1965.jpg"/>
+                                <head>General William Westmoreland talks with troops of first
+                                    battalion, 16th regiment of 2nd brigade of U.S. First Division
+                                    at their positions near Bien Hoa in Vietnam, 1965.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap080828038176-1_tet_offensive.jpg"/>
+                                <head>Two U.S. military policemen aid a wounded fellow MP during
+                                    fighting in the U.S. Embassy compound in Saigon, Jan. 31, 1968,
+                                    at the beginning of the Tet Offensive. A Viet Cong suicide squad
+                                    seized control of part of the compound and held it for about six
+                                    hours before they were killed or captured.</head>
+                                <bibl>AP Photo/Hong Seong-Chan</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/hanoi_street_scene_march_1946.jpg"/>
+                                <head>Street Scene, Hanoi, March 1946. The words on the mural above
+                                    the Vietnamese soldier--"chien dau" and "toan dan doan ket"
+                                    mean, respectively, "Fight!" and "The Entire Population is
+                                    United."</head>
+                                <bibl>Photographic Collection of Wayne D. Larabee</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Peace Negotiations</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap540721012_geneva_conference_1954.jpg"/>
+                                <head>General view of the plenary session in the Palais de Nations,
+                                    Geneva, July 21, 1954, after the signing of the Indo China Truce
+                                    Agreements. Left to right: the Soviet delegation and the
+                                    British. Next table: the Laotian, French and Vietnam
+                                    delegations, and with backs to the camera, the Cambodia
+                                    delegation and, left, the United States delegation.</head>
+                                <bibl>AP-Photo/sm/stf</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap721123058-1_kissinger_le_duc_tho_72.jpg"/>
+                                <head>U.S. presidential advisor Dr. Henry Kissinger, left, and Le
+                                    Duc Tho, right, North Vietnam's chief negotiator, are seen at
+                                    Gif-sur-Yvette, suburban Paris, just before the beginning of
+                                    secret talks, Nov. 23, 1972. At center is Nguyen Phuong, a
+                                    member of the North Vietnamese delegation.</head>
+                                <bibl>AP Photo/Michel Lipchitz</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7301230186-1_paris_peace_talks.jpg"/>
+                                <head>Presidential adviser Dr. Henry Kissinger, third from left, and
+                                    Hanoi's Le Duc Tho, waving, are seen after their last meeting at
+                                    the International Conference Center in Paris, Jan. 23,
+                                    1973.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7301230194-1_peace_talks.jpg"/>
+                                <head>Presidential adviser Dr. Henry Kissinger joins North
+                                    Vietnamese negotiators in waving to onlookers in Paris after
+                                    their meeting at the International Conference Center, Jan. 23,
+                                    1973. With him are Hanoi's Le Duc Tho, center, and Xuan
+                                    Thuy.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7301240284-1_conference.jpg"/>
+                                <head>Henry Kissinger President Nixon’s envoy, third from left, and
+                                    Le Duc Tho, North Vietnam’s envoy, third from right, initial the
+                                    peace agreement. Initialing took place in the International
+                                    Conference Center in Paris on Jan. 23, 1973. Allied conferees
+                                    are at left with those representing the North Vietnamese.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7301241266-1_kissinger_leductho.jpg"/>
+                                <head>Presidential adviser Henry Kissinger, across table, and Le Duc
+                                    Tho, foreground, head of the Hanoi delegation, initial the
+                                    Vietnam peace agreement in the International Conference Center
+                                    in Paris, Jan. 23, 1973.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7310160101-1_kissinger_nobel_73.jpg"/>
+                                <head>Secretary of State Henry Kissinger being congratulated October
+                                    16, 1973 by President Richard Nixon in the Oval office of the
+                                    White House, following the announcement that Kissinger was a
+                                    winner of the 1973 Nobel Peace Prize. Kissinger and North
+                                    Vietnamese diplomat Lo Duc Tho won the prize together for their
+                                    efforts in ending the Vietnam war.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/kissinger_and_le_duc_tho_23jan73.jpg"/>
+                                <head>Presidential adviser Henry Kissinger and Le Duc Tho, head of
+                                    the Hanoi delegation, initial the Vietnam peace agreement in the
+                                    International Conference Center in Paris, Jan. 23, 1973.</head>
+                                <bibl>White House Photo</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
+                <div>
+                    <head>Protest</head>
+                    <list>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap670325035_king_spock_1967.jpg"/>
+                                <head>Leading the march against the Vietnam conflict are Dr.
+                                    Benjamin Spock, tall, white-haired man, and Dr. Martin Luther
+                                    King Jr., third from right, in a parade on State St. in Chicago,
+                                    Ill., March 25, 1967. Dr. Spock is co-chairman of the National
+                                    Committee for Sane Nuclear Policy.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap671029023_prowar_1967.jpg"/>
+                                <head>Part of a crowd of pro-Vietnam War demonstrators hold up signs
+                                    and American flags in support of U.S. policy in Vietnam in
+                                    Wakefield, Mass., on Oct. 29, 1967. The demonstration was
+                                    organized by 19-year-old Paul P. Christopher, a Wakefield high
+                                    school senior who became "burned up" by anti-Vietnam War
+                                    demonstrators.</head>
+                                <bibl>AP Photo/J. Walter Green</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap680115029-1_womens_brigade_antiwar.jpg"/>
+                                <head>Members of a women's brigade hold a banner protesting the
+                                    Vietnam War at a march led by former Montana congresswoman
+                                    Jeannette Rankin in Washington, D.C. on Jan. 15, 1968. Behind
+                                    them are other protesters and the U.S. Capitol building.
+                                    Carrying the sign, from left, are: Ruth Krause, Mrs. Vel
+                                    Phillips, Wenn Griffin, Ruth Warwick, and Lucy
+                                    Montgomery.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap700504060-1_kent_state_1970.jpg"/>
+                                <head>A group of youths cluster around a wounded person as Ohio
+                                    National Guardsmen, wearing gas masks, hold their weapons in
+                                    background on Kent State University campus in Kent, Ohio,
+                                    Monday, May 4, 1970. Members of the Guards killed four students
+                                    and injured nine during a campus protest against the Vietnam
+                                    War. This picture was made by Kent State student photographer
+                                    Douglas Moore.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6602090240_protest.jpg"/>
+                                <head>Members of the Women’s Strike for Peace organization picketed
+                                    the white house, Washington, Feb. 9, 1966 in protest of
+                                    escalation of the war in Vietnam. The majority of the pickets
+                                    came from cities along the Eastern seaboard some of the them
+                                    carried paper white doves and helium-filled black balloons
+                                    imprinted with the slogan “stop the killing.”</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6704150348-1_burning_draft_cards_1967.jpg"/>
+                                <head>Peace demonstrators apparently burn their draft cards by
+                                    touching them to flames from coffee can held by another
+                                    demonstrator. The card-burning took place in New York's Central
+                                    Park, April 15, 1967, as part of demonstration against the war
+                                    in Vietnam. The coffee can contained sand soaked with lighter
+                                    fluid.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap651016075-1_marines_prowar.jpg"/>
+                                <head>Members of a U.S. Marine veterans group carry placards as they
+                                    heckle some 10,000 marchers in New York October 16, 1965. Police
+                                    barricades separated the veterans from the demonstrators who
+                                    paraded down New York's Fifth Avenue to protest U.S. involvement
+                                    in the Vietnam war.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6710210177-1_mall_protest_1967.jpg"/>
+                                <head>Anti-war demonstrators gather opposite the Lincoln Memorial in
+                                    Washington, D.C., Oct. 21, 1967. In the background is the
+                                    Reflecting Pool, the base of the Washington Monument, and barely
+                                    visible through the haze is the Capitol Building.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap6803170247-1_protests_london.jpg"/>
+                                <head>Police struggle to overpower a demonstrator in the battle in
+                                    Grosvenor Square, London on March 17, 1968, when thousands of
+                                    people protested against the Vietnam war and besieged the
+                                    American Embassy. The protestors fought with the police and many
+                                    arrests were made.</head>
+                                <bibl>AP Photo</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7005091405-1_protest_1970.jpg"/>
+                                <head>Demonstrators in support of the Vietnam War are shown on the
+                                    Ellipse in Washington, May 9, 1970.</head>
+                                <bibl>AP Photo/Charles Tasnadi</bibl>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure>
+                                <graphic
+                                    url="https://static.history.state.gov/gallery/southeast-asia-conference/medium/ap7112280248-1_vietnam_vets_against_war.jpg"/>
+                                <head>Members of the Vietnam Veterans Against the War raise clenched
+                                    fists after ending their 40-hour occupation of State of Liberty,
+                                    which can be seen behind them, Dec. 28, 1971. The veterans are
+                                    protesting the continuation of the Vietnam war and the
+                                    intensification of United States bombing.</head>
+                                <bibl>AP Photo/Anthony Camerano</bibl>
+                            </figure>
+                        </item>
+                    </list>
+                </div>
             </div>
             <div type="section" xml:id="background-materials">
                 <head>Background Materials</head>
