@@ -314,37 +314,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="620933159001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="620933159001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>Thank you very much, Ambassador, and it’s a great pleasure and privilege for
@@ -470,37 +452,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="620935370001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="620935370001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -1061,37 +1025,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="620970034001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="620970034001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -1838,37 +1784,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635457473001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635457473001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -2872,37 +2800,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="726241127001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="726241127001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -3984,37 +3894,19 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635436536001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635436536001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -5177,37 +5069,19 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635457501001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635457501001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -5902,37 +5776,19 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="739508859001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="739508859001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -7189,37 +7045,19 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635436537001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635436537001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -8527,37 +8365,19 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635436543001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635436543001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
@@ -9904,37 +9724,19 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display:none;"> 486x412 </div>
-                    <!--
-                    By use of this code snippet, I agree to the Brightcove Publisher T and C 
-                    found at https://accounts.brightcove.com/en/terms-and-conditions/. 
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" language="JavaScript"
-                        type="text/javascript"
-                        src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"/>
-                    <object xmlns="http://www.w3.org/1999/xhtml" id="myExperience635436536001"
-                        class="BrightcoveExperience">
-                        <param name="bgcolor" value="#FFFFFF"/>
-                        <param name="width" value="486"/>
-                        <param name="height" value="412"/>
-                        <param name="playerID" value="642900215001"/>
-                        <param name="playerKey"
-                            value="AQ%2E%2E,AAAAAGWqYgE%2E,KxHPzbPALrGbr42hNpx45lOyQ1a-Nw88"/>
-                        <param name="isVid" value="true"/>
-                        <param name="isUI" value="true"/>
-                        <param name="dynamicStreaming" value="true"/>
-                        <param name="@videoPlayer" value="635450480001"/>
-                        <param name="secureConnections" value="true"/>
-                        <param name="secureHTMLConnections" value="true"/>
-                        <param name="htmlFallback" value="true"/>
-                    </object>
-                    <!-- 
-                    This script tag will cause the Brightcove Players defined above it to be created as soon
-                    as the line is read by the browser. If you wish to have the player instantiated only after
-                    the rest of the HTML is processed and the page load is complete, remove the line.
-                    -->
-                    <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"
-                        >brightcove.createExperiences();</script>
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="position: relative; display: block;">
+                        <div style="padding-top: 56.25%;">
+                            <video data-video-id="635450480001" data-account="1705665025"
+                                data-player="HJ8lQG1Eg" data-embed="default"
+                                data-application-id="data-application-id" class="video-js"
+                                controls="controls"
+                                style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                            <script
+                                src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                            />
+                        </div>
+                    </div>
                     <!-- End of Brightcove Player -->
 
                     <p>
